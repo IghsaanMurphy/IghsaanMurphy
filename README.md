@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IghsaanMurphy.
+- 👀 I’m interested in learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML and CSS mostly and a little bit of JS aswell to become a Full Stack Developer one Day.
+- 💞️ I’m looking to collaborate on Anything basically just to learn from those who are more experienced in this line of work than what I am at this point in time.
+- 📫 you can reach me via email @ ighsaan.murphy786@gmail.com
